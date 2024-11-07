@@ -1,2 +1,2 @@
 # node.js
-About Node.JS
+In this course, we will look at Node.js, a server-side technology that allows you to execute JavaScript code outside the browser. Let's look at the basic concepts and built-in modules that are actively used in the development of the server. Let's consider the mechanism of communication between the server and the browser. Let's create a basic routing on a clean one Node.js . Connect Express and rewrite the router. Let's learn how to work with dynamic data using the Node template engine.js. Let's write a news application with support for CRUD operations and data storage in MongoDB. Let's create our own API for returning data from the database. And finally, we will download the finished application on Heroku.
